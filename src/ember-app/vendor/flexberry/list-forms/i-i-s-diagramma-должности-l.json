@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-diagramma-должности-e",
+  "editForm": "i-i-s-diagramma-должности-e",
+  "external": false,
+  "caption": "Должности",
+  "name": "IISDiagrammaДолжностиL",
+  "className": "ДолжностиL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-diagramma-должности",
+      "modelProjection": "ДолжностиL"
+    }
+  ]
+}

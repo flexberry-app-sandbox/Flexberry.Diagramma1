@@ -1,0 +1,49 @@
+﻿{
+  "name": "IISDiagrammaПодразделения",
+  "modelName": "i-i-s-diagramma-подразделения",
+  "className": "Подразделения",
+  "nameSpace": "IIS.Diagramma",
+  "parentModelName": null,
+  "parentClassName": null,
+  "attrs": [
+    {
+      "name": "iDподразделения",
+      "type": "number",
+      "flexberryType": "int",
+      "notNull": false,
+      "defaultValue": "",
+      "stored": true,
+      "ordered": false
+    },
+    {
+      "name": "наименование",
+      "type": "number",
+      "flexberryType": "int",
+      "notNull": false,
+      "defaultValue": "",
+      "stored": true,
+      "ordered": false
+    }
+  ],
+  "belongsTo": [],
+  "hasMany": [],
+  "projections": [
+    {
+      "name": "ПодразделенияE",
+      "modelName": "i-i-s-diagramma-подразделения",
+      "attrs": [],
+      "belongsTo": [],
+      "hasMany": []
+    },
+    {
+      "name": "ПодразделенияL",
+      "modelName": "i-i-s-diagramma-подразделения",
+      "attrs": [],
+      "belongsTo": [],
+      "hasMany": []
+    }
+  ],
+  "stored": true,
+  "offline": true,
+  "external": false
+}

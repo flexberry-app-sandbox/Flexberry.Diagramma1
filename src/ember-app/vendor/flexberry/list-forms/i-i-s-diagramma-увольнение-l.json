@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-diagramma-увольнение-e",
+  "editForm": "i-i-s-diagramma-увольнение-e",
+  "external": false,
+  "caption": "Увольнение",
+  "name": "IISDiagrammaУвольнениеL",
+  "className": "УвольнениеL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-diagramma-увольнение",
+      "modelProjection": "УвольнениеL"
+    }
+  ]
+}

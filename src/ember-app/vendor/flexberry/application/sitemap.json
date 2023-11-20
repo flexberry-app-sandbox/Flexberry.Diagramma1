@@ -1,0 +1,71 @@
+﻿{
+  "applicationCaption": "Diagramma",
+  "applicationTitle": "Diagramma",
+  "items": [
+    {
+      "link": null,
+      "menuName": "diagramma",
+      "caption": "Diagramma",
+      "title": "Diagramma",
+      "children": [
+        {
+          "link": "i-i-s-diagramma-прием-l",
+          "menuName": null,
+          "caption": "Прием",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-diagramma-должности-l",
+          "menuName": null,
+          "caption": "Должности",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-diagramma-подразделения-l",
+          "menuName": null,
+          "caption": "Подразделения",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-diagramma-график-l",
+          "menuName": null,
+          "caption": "График",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-diagramma-организация-l",
+          "menuName": null,
+          "caption": "Организация",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-diagramma-сотрудник-l",
+          "menuName": null,
+          "caption": "Сотрудник",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-diagramma-увольнение-l",
+          "menuName": null,
+          "caption": "Увольнение",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-diagramma-расчет-l",
+          "menuName": null,
+          "caption": "Расчет",
+          "title": "",
+          "children": null
+        }
+      ]
+    }
+  ],
+  "mobile": true
+}

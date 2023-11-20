@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-diagramma-прием-e",
+  "editForm": "i-i-s-diagramma-прием-e",
+  "external": false,
+  "caption": "Прием",
+  "name": "IISDiagrammaПриемL",
+  "className": "ПриемL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-diagramma-прием",
+      "modelProjection": "ПриемL"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+﻿{
+  "propertyLookup": [],
+  "external": false,
+  "caption": "Увольнение",
+  "name": "IISDiagrammaУвольнениеE",
+  "className": "УвольнениеE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-diagramma-увольнение",
+      "modelProjection": "УвольнениеE"
+    }
+  ]
+}

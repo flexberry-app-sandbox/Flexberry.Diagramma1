@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-diagramma-подразделения-e",
+  "editForm": "i-i-s-diagramma-подразделения-e",
+  "external": false,
+  "caption": "Подразделения",
+  "name": "IISDiagrammaПодразделенияL",
+  "className": "ПодразделенияL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-diagramma-подразделения",
+      "modelProjection": "ПодразделенияL"
+    }
+  ]
+}

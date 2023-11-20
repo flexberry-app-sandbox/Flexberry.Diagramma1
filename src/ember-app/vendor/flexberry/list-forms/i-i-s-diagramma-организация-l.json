@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-diagramma-организация-e",
+  "editForm": "i-i-s-diagramma-организация-e",
+  "external": false,
+  "caption": "Организация",
+  "name": "IISDiagrammaОрганизацияL",
+  "className": "ОрганизацияL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-diagramma-организация",
+      "modelProjection": "ОрганизацияL"
+    }
+  ]
+}

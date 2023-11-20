@@ -1,0 +1,80 @@
+﻿{
+  "name": "IISDiagrammaТаблица",
+  "modelName": "i-i-s-diagramma-таблица",
+  "className": "Таблица",
+  "nameSpace": "IIS.Diagramma",
+  "parentModelName": null,
+  "parentClassName": null,
+  "attrs": [
+    {
+      "name": "заработок_год",
+      "type": "number",
+      "flexberryType": "int",
+      "notNull": false,
+      "defaultValue": "",
+      "stored": true,
+      "ordered": false
+    },
+    {
+      "name": "пособие",
+      "type": "number",
+      "flexberryType": "int",
+      "notNull": false,
+      "defaultValue": "",
+      "stored": true,
+      "ordered": false
+    },
+    {
+      "name": "срзаработок",
+      "type": "number",
+      "flexberryType": "int",
+      "notNull": false,
+      "defaultValue": "",
+      "stored": true,
+      "ordered": false
+    }
+  ],
+  "belongsTo": [
+    {
+      "polymorphic": false,
+      "presence": true,
+      "name": "empty",
+      "relatedTo": "i-i-s-diagramma-расчет",
+      "inverse": "empty"
+    }
+  ],
+  "hasMany": [],
+  "projections": [
+    {
+      "name": "ТаблицаE",
+      "modelName": "i-i-s-diagramma-таблица",
+      "attrs": [
+        {
+          "name": "пособие",
+          "caption": "Пособие",
+          "hidden": false,
+          "index": 0
+        }
+      ],
+      "belongsTo": [],
+      "hasMany": []
+    },
+    {
+      "name": "ТаблицаL",
+      "modelName": "i-i-s-diagramma-таблица",
+      "attrs": [
+        {
+          "name": "пособие",
+          "caption": "Пособие",
+          "hidden": false,
+          "index": 0
+        }
+      ],
+      "belongsTo": [],
+      "hasMany": []
+    }
+  ],
+  "stored": true,
+  "offline": true,
+  "external": false
+}

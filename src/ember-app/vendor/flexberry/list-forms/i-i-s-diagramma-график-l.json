@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-diagramma-график-e",
+  "editForm": "i-i-s-diagramma-график-e",
+  "external": false,
+  "caption": "График",
+  "name": "IISDiagrammaГрафикL",
+  "className": "ГрафикL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-diagramma-график",
+      "modelProjection": "ГрафикL"
+    }
+  ]
+}

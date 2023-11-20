@@ -1,0 +1,14 @@
+﻿{
+  "propertyLookup": [],
+  "external": false,
+  "caption": "Подразделения",
+  "name": "IISDiagrammaПодразделенияE",
+  "className": "ПодразделенияE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-diagramma-подразделения",
+      "modelProjection": "ПодразделенияE"
+    }
+  ]
+}

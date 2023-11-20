@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-diagramma-расчет-e",
+  "editForm": "i-i-s-diagramma-расчет-e",
+  "external": false,
+  "caption": "Расчет",
+  "name": "IISDiagrammaРасчетL",
+  "className": "РасчетL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-diagramma-расчет",
+      "modelProjection": "РасчетL"
+    }
+  ]
+}
